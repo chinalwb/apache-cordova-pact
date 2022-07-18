@@ -26,8 +26,8 @@
     <description>Cordova psdui Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,psdui</keywords>
-    <repo>https://github.com/apache/cordova-plugin-camera</repo>
-    <issue>https://github.com/apache/cordova-plugin-camera/issues</issue>
+    <repo>https://github.com/chinalwb/apache-cordova-sdui-plugin</repo>
+    <issue>https://github.com/chinalwb/apache-cordova-sdui-plugin/issues</issue>
 
     <engines>
         <engine name="cordova" version=">=9.0.0"/>
