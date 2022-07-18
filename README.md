@@ -1,1 +1,1 @@
-# apache-cordova-pact
+# apache-cordova-sdui-plugin
